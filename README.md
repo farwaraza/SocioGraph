@@ -50,5 +50,5 @@ When the program runs:
 This project was developed by:
 - [Farwa Raza](https://github.com/farwaraza)
 - [Sohair Shahzad](https://github.com/5ohair)
-- Samin Farid
+- [Samin Farid](https://github.com/samin605)
 - Khadija Mustafa
