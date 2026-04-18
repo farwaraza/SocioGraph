@@ -17,7 +17,6 @@ void DrawCenteredText(const char *text, int y, int fontSize, Color color) {
     int textWidth = MeasureText(text, fontSize);
     DrawText(text, (GetScreenWidth() - textWidth) / 2, y, fontSize, color);
 }
-
 int main() {
     SocialNetwork network;
 
