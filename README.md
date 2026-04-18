@@ -1,6 +1,6 @@
-#SocioGraph
+# SocioGraph
 
-##About the Project
+## About the Project
 SocioGraph is an interactive social networking simulation built in C++ using Raylib for the graphical interface. It allows users to sign up, log in, follow other users, search profiles, and explore connections in a visual and interactive environment.
 The project demonstrates core Data Structures and Algorithms (DSA) concepts such as:
 Graphs (user connections)
